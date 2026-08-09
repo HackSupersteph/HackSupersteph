@@ -117,3 +117,17 @@ My journey in Cyber Security Science has led me to develop a passion for cyberse
 ## Projects
 - Detection Lab
 - SOC Automation Project
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="TheSuperSteph | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JTheSuperSteph | Twitter" width="22px" src="https://cdn.simpleicons.org/x/000000" />][X]
+[<img align="left" alt="TheSuperSteph | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="TheSuperSteph | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[X]: https://twitter.com/theSuperSteph_
+[youtube]: https://www.youtube.com/c/
+[instagram]: https://www.instagram.com/theSuperSteph_/
+[linkedin]: https://linkedin.com/in/stephen-olosunde-6722131aa
+
