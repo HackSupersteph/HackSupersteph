@@ -127,7 +127,7 @@ My journey in Cyber Security Science has led me to develop a passion for cyberse
 [<img align="left" alt="TheSuperSteph | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [X]: https://twitter.com/theSuperSteph_
-[youtube]: https://www.youtube.com/c/
+[youtube]: https://www.youtube.com/c/securehivex
 [instagram]: https://www.instagram.com/theSuperSteph_/
 [linkedin]: https://linkedin.com/in/stephen-olosunde-6722131aa
 
