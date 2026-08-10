@@ -117,7 +117,11 @@ My journey in Cyber Security Science has led me to develop a passion for cyberse
 ## Projects
 - Detection Lab
 - SOC Automation Project
-
+- Build a Mini SOC
+- THreat Intelligence Platform
+- Phishing Investigation
+- Attack and Detection with MITRE ATT&CK
+- Vulnerability Assessment
 
 <h2> 🤳 Connect with me:</h2>
 
