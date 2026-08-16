@@ -26,7 +26,7 @@ My journey in Cyber Security Science has led me to develop a passion for cyberse
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">SOC Automation Project</a>|
 | Security Automation with Shuffle SOAR         | <a href ="https://google.com">Building a Mini SOC Environment</a>|
 | Incident Response Planning and Execution      | <a href ="https://google.com"> Threat Intelligence Platform</a>|
-| Case Management with TheHive                  | Phishing Investigation|
+| Case Management with TheHive                  |  <a href ="https://google.com"> Phishing Investigation|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 
