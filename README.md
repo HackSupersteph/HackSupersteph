@@ -28,7 +28,7 @@ My journey in Cyber Security Science has led me to develop a passion for cyberse
 | Incident Response Planning and Execution      | <a href ="https://google.com"> Threat Intelligence Platform</a>|
 | Case Management with TheHive                  | <a href ="https://google.com"> Phishing Investigation</a>|
 | Scripting and Automation for Threat Mitigation |  <a href ="https://google.com"> Attack and Detection with MITRE</a>| 
-| [Insert Skills] | Vulnerability Assessment |
+| [Insert Skills Here] | Vulnerability Assessment |
 
 
 
