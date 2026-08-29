@@ -29,7 +29,7 @@ My journey in Cyber Security Science has led me to develop a passion for cyberse
 | Case Management with TheHive                  | <a href ="https://google.com"> Phishing Investigation</a>|
 | Scripting and Automation for Threat Mitigation |  <a href ="https://google.com"> Attack and Detection with MITRE</a>| 
 | [Insert Relevante Skills Here] | Vulnerability Assessments |
-| Research | Ransomware Awareness |
+| Research | Ransomwares Awareness |
 
 
 
