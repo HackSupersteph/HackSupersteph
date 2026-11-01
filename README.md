@@ -32,7 +32,6 @@ My journey in Cyber Security Science has led me to develop a passion for cyberse
 | Research Skills, Documentation skills | Ransomare Awareness Mobile Game Application |
 
 
-
 ## 🛠️ Tools & Technologies
 
 ### 🔎 Threat Intelligence
